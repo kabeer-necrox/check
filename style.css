@@ -1,0 +1,69 @@
+.main{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./images/IMG_9704.JPG);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.join-us{
+    color: white;
+}
+.para-ist{
+    color: white;
+    width: 40%;
+    padding-top: 30px;
+}
+.btn button{
+    padding: 8px; 
+    background-color: orangered;
+   
+ 
+}
+.btn{
+    padding-top: 80px;
+} 
+.sec-main{
+    background-color: lightcyan;
+    width: 100%;
+    height: 60vh;
+    display: flex;
+}
+.maain-foth-sec{
+    background-color: lightcyan;
+    width: 100%;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+ 
+
+.ram-para{
+    width: 30%;
+    text-align: center;
+}
+.fith-sec-main{
+    width: 100%;
+    height: 100vh;
+    background-color: lightcyan;
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    width: 100%;
+    height: 40vh;
+    background-color: lightcyan;
+    display: flex;
+    justify-content: space-around;
+
+}
